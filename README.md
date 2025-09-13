@@ -30,3 +30,16 @@
 ![](CoinOp-front.jpeg)
 
 ![](CoinOp-rear.jpeg)
+
+<br>
+<br>
+
+## YouTube Videos
+
+[CoinOp - 3D Printed Open Source CNC - circuit milling & hole drilling, 16x speed](https://youtu.be/r40ErLt8Xys)
+
+[![YouTube Video](https://img.shields.io/badge/YouTube-Watch-red?logo=youtube)](https://youtu.be/r40ErLt8Xys)
+[![Watch the video](https://img.youtube.com/vi/r40ErLt8Xys/maxresdefault.jpg)](https://youtu.be/r40ErLt8Xys)
+
+
+
