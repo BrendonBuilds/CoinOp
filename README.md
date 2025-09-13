@@ -11,6 +11,8 @@
 - Spindle power and probe logic are transmitted through linear rails/leadscrews (no wires)
 - Conductive materials can be probed directly without any user interaction
 - Travels conveniently with built-in storage trays for frequently used parts
+- 60 x 90mm XY work area (60 x 120mm travel, increased work area with future mods)
+- 25mm Z clearance
 
 <br>
 <br>
